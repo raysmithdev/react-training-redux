@@ -1,0 +1,28 @@
+.Header {
+  background-color: #222;
+  height: 330px;
+  padding: 20px;
+  color: white;
+}
+
+.Logo {
+  height: 50px;
+}
+
+.Title, .Sub-Title {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+ul {
+  font-weight: lighter;
+}
+
+ul li {
+  margin: 4px 0px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
