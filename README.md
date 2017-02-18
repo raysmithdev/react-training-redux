@@ -11,7 +11,7 @@ A Redux (http://redux.js.org/docs/introduction/) based workshop to help learn mo
 
 #### First hour
 - 10 mins - intro - mentors put in chat dialogue what they want to gain from the workshop. _If you have questions throughout the demo please put them in the chat & I will answer them in the Q&A part of the workshop i.e second hour._
-- 50 mins - demo of table of contents through building a simple todo app using React.
+- 50 mins - demo of table of contents through building a simple todo app using React & Redux.
 
 #### Second hour
 - Open Q&A session style where mentors ask questions based on first hour and React in general.
