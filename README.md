@@ -15,8 +15,6 @@ A Redux (http://redux.js.org/docs/introduction/) based workshop to help learn mo
 
 #### Second hour
 - Open Q&A session style where mentors ask questions based on first hour and React in general.
-- Possible time depending: assign drills to mentors to try in teams of 2 depending on numbers in attendance.
-
 
 ##Further readings
 - Redux official docs [http://redux.js.org/docs/introduction/]
