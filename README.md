@@ -16,7 +16,7 @@ A Redux (http://redux.js.org/docs/introduction/) based workshop to help learn mo
 #### Second hour
 - Open Q&A session style where mentors ask questions based on first hour and React in general.
 
-##Further readings
+## Further readings
 - Redux official docs [http://redux.js.org/docs/introduction/]
 - Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015
  [https://www.youtube.com/watch?v=xsSnOQynTHs]
