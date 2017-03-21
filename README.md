@@ -20,6 +20,10 @@ A Redux (http://redux.js.org/docs/introduction/) based workshop to help learn mo
 - Redux official docs [http://redux.js.org/docs/introduction/]
 - Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015
  [https://www.youtube.com/watch?v=xsSnOQynTHs]
+ 
+## Resources / Libraries
+- Redux Dev Tools [https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en]
+- Fetch library for AJAX [https://github.com/github/fetch]
 
 ## Using this App locally
 - fork this repo
